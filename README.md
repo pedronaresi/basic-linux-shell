@@ -6,8 +6,7 @@ ICT/UNIFESP**
 bruno.kimura@unifesp.br
 15/03/18**
 
-**LAB_1: Implementação de um Shell
-**
+**LAB_1: Implementação de um Shell**
 
 **Metodologia:**
 Trabalho individual ou em grupo de no máximo 3 (três) alunos a ser desenvolvido em laboratório de
@@ -41,9 +40,9 @@ cadeias de comandos.
 padrão e ```>``` para saída padrão. No caso caso do operador ```>```, se o arquivo apontado para a saída já
 existir, o operador trunca a saída do comando sobre o conteúdo do arquivo, ou seja, sobrescreve o
 arquivo existente com o novo conteúdo.
-    Exemplos: # ```sort < teste.txt > novo_teste.txt```
+    Exemplos: ```# sort < teste.txt > novo_teste.txt```
 4. Redirecionar a saída padrão de comandos para arquivos, utilizando ```>>```. Diferente do operador
-```>```, caso o arquivo de saída exista, o operador “>>” acrescenta a saída do comando ao fim do
+```>```, caso o arquivo de saída exista, o operador ```>>``` acrescenta a saída do comando ao fim do
 conteúdo do arquivo existente.
     Exemplos: ```# sort < teste.txt >> novo_teste.txt```
 5. Combinar operadores.
