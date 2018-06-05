@@ -1,6 +1,8 @@
 # Basic Linux Shell
 Basic Linux Shell implementation built in C for "Operating Systems" course of 2018 at the Institute of Science and Technology at Federal University of São Paulo (UNIFESP). 🐚
 
+The description for this task can be found (in Portuguese) [here](LAB-02-MapReduce.pdf).
+
 *Read this in other languages: [English](README.md), [Portuguese](README.pt-BR.md).*
 
 # Contributors:
